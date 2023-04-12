@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Kasar</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<h3 align="center">A passionate Backend developer from India</h3>
 
-<img src="https://contentstatic.techgig.com/photo/80306353/pros-and-cons-of-a-career-in-software-development.jpg?366463" alt="Developer" >
+<img src="https://contentstatic.techgig.com/photo/80306353/pros-and-cons-of-a-career-in-software-development.jpg?366463" alt="Developer" height="100" width="100">
 
 - 🔭 I’m currently working on [PGLife](https://github.com/kasarvaibhav777/PGLife)
 
